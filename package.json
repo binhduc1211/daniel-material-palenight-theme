@@ -1,0 +1,25 @@
+{
+  "name": "daniel-material-palenight-theme",
+  "displayName": "Daniel Material Palenight Theme",
+  "description": "Daniel Material Palenight Theme",
+  "publisher": "daniel-duc",
+  "author": "Daniel Duc",
+  "version": "1.0.0",
+  "icon": "media/icon.jpg",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Daniel Material Palenight Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/daniel-material-palenight-theme-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
