@@ -4,7 +4,7 @@ A sleek, modern Visual Studio Code theme inspired by Material Palenight, designe
 
 ## 🎨 Preview
 
-![](https://res.cloudinary.com/daniel-duc/image/upload/v1762426828/2025-11-06_18-00_t1rzec.png)
+![](https://res.cloudinary.com/daniel-duc/image/upload/v1762442225/Screenshot_From_2025-11-06_22-15-03_vsgb1r.png)
 
 ## ✨ Features
 
@@ -70,7 +70,7 @@ You can override specific token colors by adding to your settings:
 
 ## 📊 Theme Statistics
 
-- **Version**: 1.1.0
+- **Version**: 1.2.0
 - **VS Code Compatibility**: ^1.43.0
 - **License**: MIT
 - **Publisher**: daniel-duc
