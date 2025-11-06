@@ -1,21 +1,36 @@
 {
   "name": "daniel-material-palenight-theme",
-  "displayName": "Daniel Material Palenight Theme",
-  "description": "Daniel Material Palenight Theme",
+  "displayName": "Material Palenight Theme",
+  "description": "Material Palenight Theme",
   "publisher": "daniel-duc",
   "author": "Daniel Duc",
-  "version": "1.0.0",
-  "icon": "media/icon.jpg",
+  "version": "1.0.1",
+  "icon": "media/icon.png",
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": "^1.43.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "Vscode",
+    "Theme",
+    "theme",
+    "material",
+    "dark",
+    "palenight",
+    "Palenight",
+    "protanopia",
+    "colorblind",
+    "react",
+    "nextjs",
+    "tailwind",
+    "vue"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Daniel Material Palenight Theme",
+        "label": "Material Palenight Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/daniel-material-palenight-theme-color-theme.json"
       }
