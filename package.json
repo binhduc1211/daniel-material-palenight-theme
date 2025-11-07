@@ -4,8 +4,15 @@
   "description": "Material Palenight Theme",
   "publisher": "daniel-duc",
   "author": "Daniel Duc",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "icon": "media/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binhduc1211/daniel-material-palenight-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/binhduc1211/daniel-material-palenight-theme/issues"
+  },
   "engines": {
     "vscode": "^1.43.0"
   },
